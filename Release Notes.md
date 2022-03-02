@@ -1,3 +1,6 @@
+Simple Object Designer - Release Notes
+======================================
+
 4.0.0.117 - Released to AppSource
 =================================
 
