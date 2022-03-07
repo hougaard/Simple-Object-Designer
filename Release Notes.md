@@ -14,7 +14,7 @@ Simple Object Designer - Release Notes
 4.0.0.119
 =========
 
-* Added ExtendedDataType property to new fields and factures
+* Added ExtendedDataType property to new fields and features
 * Fix bug regarding customizations on deleted tables
 * Start Object Number in Setup must be over 50.000
 
