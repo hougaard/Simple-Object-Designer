@@ -25,3 +25,9 @@ Simple Object Designer - Release Notes
 * Prevent treating fields added as "existing fields"
 * Changed how list are called to allow filters on field pages
 * "Init New App" could create "leftovers" in field properties
+
+4.0.0.123 - Release to AppSource
+================================
+
+* Fixed bug regarding symbols vs
+* Added support for exposing APIs to use the secondary readonly database for optimal read performance without impacting the produciton environment.
