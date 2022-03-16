@@ -32,7 +32,7 @@ Simple Object Designer - Release Notes
 * Fixed bug regarding symbols vs
 * Added support for exposing APIs to use the secondary readonly database for optimal read performance without impacting the produciton environment.
 
-4.0.0.126 - Relased to AppSource
+4.0.0.126 - Released to AppSource
 ================================
 
 * Typo on registration page
