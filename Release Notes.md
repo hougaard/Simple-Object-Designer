@@ -44,3 +44,10 @@ Simple Object Designer - Release Notes
 
 * Fixed bug where API page using fields from a different extension could result in an missing dependency error
 
+4.0.0.129 - Released to AppSource
+=================================
+
+* Added Fixed Asset and Service Item as anchor tables for the data-related template
+* Add tooltip support for new fields and features.
+* 
+
