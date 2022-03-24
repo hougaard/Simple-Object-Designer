@@ -49,5 +49,13 @@ Simple Object Designer - Release Notes
 
 * Added Fixed Asset and Service Item as anchor tables for the data-related template
 * Add tooltip support for new fields and features.
-* 
+
+4.0.0.131 - Released to AppSource
+=================================
+
+* Fixed bug where Line fields could be placed on head list page
+* Added quotes to fields named "area", "field", "group", and "layout"
+* Added check for duplciate field names
+
+
 
