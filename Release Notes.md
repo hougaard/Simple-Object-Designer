@@ -57,5 +57,13 @@ Simple Object Designer - Release Notes
 * Added quotes to fields named "area", "field", "group", and "layout"
 * Added check for duplciate field names
 
+4.0.0.135 - Released to AppSource
+=================================
+
+* Prevent users from creating SystemId (and other System fields)
+* Prevent usage of special characters in publisher name
+* Fixed bug for missing fields on List pages
+* Fix for app.json missing commas
+* Fix for fields named "id" in APIs
 
 
