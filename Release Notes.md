@@ -71,13 +71,13 @@ Simple Object Designer - Release Notes
 
 * Support for creating RoleCenters
 
-5.0.0.197 - Release to AppSource
-================================
+5.0.0.197 - Released to AppSource
+=================================
 
 * GitHub and AL-Go! Integration
 
-6.0.0.213 - Release to AppSource
-================================
+6.0.0.213 - Released to AppSource
+=================================
 
 * Support for FlowField
 * Create APIs for (some) Codeunits 
