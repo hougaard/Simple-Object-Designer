@@ -66,4 +66,19 @@ Simple Object Designer - Release Notes
 * Fix for app.json missing commas
 * Fix for fields named "id" in APIs
 
+5.0.0.139 - Released to AppSource
+=================================
 
+* Support for creating RoleCenters
+
+5.0.0.197 - Release to AppSource
+================================
+
+* GitHub and AL-Go! Integration
+
+6.0.0.213 - Release to AppSource
+================================
+
+* Support for FlowField
+* Create APIs for (some) Codeunits 
+* Major Symbol cleanup
