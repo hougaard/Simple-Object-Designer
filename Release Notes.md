@@ -79,6 +79,17 @@ Simple Object Designer - Release Notes
 6.0.0.213 - Released to AppSource
 =================================
 
-* Support for FlowField
 * Create APIs for (some) Codeunits 
 * Major Symbol cleanup
+
+7.0.0.245 - Released to AppSource
+=================================
+* Store app defintion inside .app file and allow that to be used in "Import App"
+* Allow changing options members (with Force Deploy)
+* Better analysis for dependencies to other extensions
+* Features with a list page gets that assigned as lookup page
+* Support for FlowFields
+* Support for filtered Lookup fields (supporting lookup into table multiple fields in the primary key
+* More symbols tuning
+* Allow Symbol download with a delegate admin account
+* DrilldownPageId added to flowfields
