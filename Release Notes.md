@@ -93,3 +93,9 @@ Simple Object Designer - Release Notes
 * More symbols tuning
 * Allow Symbol download with a delegate admin account
 * DrilldownPageId added to flowfields
+
+8.0.0.262 - Released to AppSource
+=================================
+* Create Mandatory Fields conditions
+
+
