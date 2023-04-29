@@ -98,4 +98,9 @@ Simple Object Designer - Release Notes
 =================================
 * Create Mandatory Fields conditions
 
+9.0.0.282 - Released to AppSource
+=================================
+* Create calculated fields on pages
+* Fixed symbols issues
+
 
