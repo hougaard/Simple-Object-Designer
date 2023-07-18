@@ -1,6 +1,15 @@
 Simple Object Designer - Release Notes
 ======================================
 
+9.0.0.311 - Released to AppSource
+=================================
+* Field Groups
+* Field Sorting
+* Calculated fields can now handle division by zero and empty dates in CalcDate()
+* Calculated fields detect flowfields and re-calculate them
+* Mandatory fields calculate flowfields on subtables before checking them
+* Even more Field Transfers
+
 9.0.0.282 - Released to AppSource
 =================================
 * Create calculated fields on pages
