@@ -1,6 +1,12 @@
 Simple Object Designer - Release Notes
 ======================================
 
+10.0.0.417 - Released to AppSource
+==================================
+* Query Support
+* Lots of new field transfers
+* Standard factboxes on features
+
 9.0.0.311 - Released to AppSource
 =================================
 * Field Groups
