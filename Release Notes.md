@@ -1,6 +1,10 @@
 Simple Object Designer - Release Notes
 ======================================
 
+11.0.0.422 - Released to AppSource
+==================================
+* Support for Microsoft's AL compiler
+
 10.0.0.417 - Released to AppSource
 ==================================
 * Query Support
