@@ -1,7 +1,7 @@
 Simple Object Designer - Release Notes
 ======================================
 
-11.0.0.488 - Released to AppSource
+11.0.0.448 - Released to AppSource
 ==================================
 * Reminders, warehouse field transfer
 * Improved symbol refresher to better handle the transition of objects to Foundation Framework
