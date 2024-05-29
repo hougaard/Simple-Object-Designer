@@ -1,6 +1,13 @@
 Simple Object Designer - Release Notes
 ======================================
 
+11.0.0.488 - Released to AppSource
+==================================
+* Reminders, warehouse field transfer
+* Improved symbol refresher to better handle the transition of objects to Foundation Framework
+* Added support for reports 215 and 216
+* Replaced Microsoft app registration (used for symbol retrieval)
+  
 11.0.0.422 - Released to AppSource
 ==================================
 * Support for Microsoft's AL compiler
