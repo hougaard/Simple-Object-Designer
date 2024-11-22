@@ -1,6 +1,12 @@
 Simple Object Designer - Release Notes
 ======================================
 
+12.0.0.499 - Release to AppSource
+=================================
+* Better support for Microsoft AL Compiler
+* Dual App Mode
+* New main menu
+
 11.0.0.448 - Released to AppSource
 ==================================
 * Reminders, warehouse field transfer
